@@ -1,0 +1,5 @@
+[Plugin]
+name=physics
+palette=physics
+comment=Palette of Physics blocks
+version=5
